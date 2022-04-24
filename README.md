@@ -1,1 +1,2 @@
 # Conversor-ImersaoAlura
+Projeto para segunda aula da Imersão Dev Alura. Conversor de moedas feito em Javascript de dolar para real, euro, bitcoin com base em cotações arredondas em Março/2022. Html e Css base disponibilizados pela imersão.
